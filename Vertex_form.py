@@ -1,3 +1,6 @@
+#program returns a quadratic function's vertex and its 'vertex form' [a(x-h)^2 + k]. 
+#Useful for quick calculations and/or graphing by hand
+
 print("\nIn the format of ax^2 + bx + c\n\n")
 a = int(input("Input your 'a' value "))
 b = int(input("Input your 'b' value "))
