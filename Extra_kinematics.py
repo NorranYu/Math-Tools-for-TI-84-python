@@ -1,5 +1,5 @@
 """
-TI-84 Plus CE Python calculator cannot allocate enough ram if this was included in the main kinematics file.
+TI-84 Plus CE Python calculator cannot allocate enough ram if this was to be included in the main kinematics file.
 If you are planning to send to your calculator, please do so as two seperate files. If not, feel free to combine them into one.
 """
 
